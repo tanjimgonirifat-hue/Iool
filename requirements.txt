@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+flask
+requests
+pyotp
+Faker
+
